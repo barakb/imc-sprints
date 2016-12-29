@@ -5,64 +5,364 @@
       "InProgress": 60,
       "Planned": 0,
       "Time": "2016-12-22T14:39:35.509615008+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 60,
+      "Planned": 108,
+      "Time": "2016-12-22T15:22:57.702944792+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 0,
+      "Planned": 108,
+      "Time": "2016-12-22T16:25:59.194546689+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 60,
+      "Planned": 108,
+      "Time": "2016-12-22T16:26:45.701808894+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 60,
+      "Planned": 108,
+      "Time": "2016-12-23T00:00:01.358859478+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 60,
+      "Planned": 108,
+      "Time": "2016-12-24T00:00:11.219582707+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 60,
+      "Planned": 108,
+      "Time": "2016-12-25T00:00:01.228978876+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 0,
+      "Planned": 108,
+      "Time": "2016-12-25T10:06:40.526033237+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 60,
+      "Planned": 108,
+      "Time": "2016-12-25T10:06:51.958784502+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 80,
+      "Planned": 88,
+      "Time": "2016-12-25T10:56:38.310457992+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 90,
+      "Planned": 78,
+      "Time": "2016-12-25T11:41:55.581399541+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 80,
+      "Planned": 88,
+      "Time": "2016-12-25T11:42:18.961832922+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 75,
+      "Planned": 88,
+      "Time": "2016-12-25T12:53:49.871632451+02:00"
+    },
+    {
+      "Done": 5,
+      "InProgress": 75,
+      "Planned": 88,
+      "Time": "2016-12-25T12:54:01.572059012+02:00"
+    },
+    {
+      "Done": 5,
+      "InProgress": 75,
+      "Planned": 0,
+      "Time": "2016-12-25T13:44:58.79217943+02:00"
+    },
+    {
+      "Done": 5,
+      "InProgress": 75,
+      "Planned": 88,
+      "Time": "2016-12-25T13:45:13.228725057+02:00"
+    },
+    {
+      "Done": 5,
+      "InProgress": 88,
+      "Planned": 75,
+      "Time": "2016-12-25T16:22:38.635439208+02:00"
+    },
+    {
+      "Done": 20,
+      "InProgress": 73,
+      "Planned": 75,
+      "Time": "2016-12-25T17:48:43.636137451+02:00"
+    },
+    {
+      "Done": 20,
+      "InProgress": 73,
+      "Planned": 75,
+      "Time": "2016-12-26T00:00:06.611714888+02:00"
+    },
+    {
+      "Done": 20,
+      "InProgress": 0,
+      "Planned": 75,
+      "Time": "2016-12-26T05:48:32.396075768+02:00"
+    },
+    {
+      "Done": 20,
+      "InProgress": 73,
+      "Planned": 75,
+      "Time": "2016-12-26T05:48:43.644681527+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 73,
+      "Planned": 74,
+      "Time": "2016-12-26T08:54:48.424695178+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 86,
+      "Planned": 61,
+      "Time": "2016-12-26T08:54:59.671945172+02:00"
+    },
+    {
+      "Done": 31,
+      "InProgress": 76,
+      "Planned": 61,
+      "Time": "2016-12-26T10:20:17.479899716+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 86,
+      "Planned": 61,
+      "Time": "2016-12-26T11:16:31.973129882+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 76,
+      "Planned": 71,
+      "Time": "2016-12-26T11:33:47.901124953+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 81,
+      "Planned": 71,
+      "Time": "2016-12-26T11:39:04.390970948+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 0,
+      "Planned": 71,
+      "Time": "2016-12-26T14:36:13.739659725+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 81,
+      "Planned": 71,
+      "Time": "2016-12-26T14:36:25.019411482+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 81,
+      "Planned": 71,
+      "Time": "2016-12-26T16:09:29.060098467+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 81,
+      "Planned": 71,
+      "Time": "2016-12-26T16:09:40.340843861+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 81,
+      "Planned": 71,
+      "Time": "2016-12-27T00:00:08.906144173+02:00"
+    },
+    {
+      "Done": 21,
+      "InProgress": 94,
+      "Planned": 58,
+      "Time": "2016-12-27T12:44:29.112569728+02:00"
+    },
+    {
+      "Done": 31,
+      "InProgress": 84,
+      "Planned": 58,
+      "Time": "2016-12-27T14:29:14.585334989+02:00"
+    },
+    {
+      "Done": 44,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-27T14:51:52.86366433+02:00"
+    },
+    {
+      "Done": 44,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-28T00:00:05.210801664+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-28T05:06:50.534534807+02:00"
+    },
+    {
+      "Done": 44,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-28T05:07:01.746818359+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-28T10:10:40.438981492+02:00"
+    },
+    {
+      "Done": 44,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-28T10:10:51.663269581+02:00"
+    },
+    {
+      "Done": 44,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-29T00:00:08.624143543+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-29T10:22:45.924230771+02:00"
+    },
+    {
+      "Done": 44,
+      "InProgress": 76,
+      "Planned": 53,
+      "Time": "2016-12-29T10:22:57.312984771+02:00"
+    },
+    {
+      "Done": 49,
+      "InProgress": 71,
+      "Planned": 53,
+      "Time": "2016-12-29T10:27:21.170651668+02:00"
+    },
+    {
+      "Done": 49,
+      "InProgress": 81,
+      "Planned": 43,
+      "Time": "2016-12-29T10:27:33.241963087+02:00"
+    },
+    {
+      "Done": 49,
+      "InProgress": 71,
+      "Planned": 43,
+      "Time": "2016-12-29T10:28:08.03373583+02:00"
+    },
+    {
+      "Done": 49,
+      "InProgress": 96,
+      "Planned": 43,
+      "Time": "2016-12-29T11:07:58.460593816+02:00"
+    },
+    {
+      "Done": 49,
+      "InProgress": 91,
+      "Planned": 43,
+      "Time": "2016-12-29T11:08:09.750487524+02:00"
+    },
+    {
+      "Done": 62,
+      "InProgress": 78,
+      "Planned": 43,
+      "Time": "2016-12-29T11:08:25.844728644+02:00"
+    },
+    {
+      "Done": 62,
+      "InProgress": 83,
+      "Planned": 38,
+      "Time": "2016-12-29T11:24:59.32829546+02:00"
+    },
+    {
+      "Done": 67,
+      "InProgress": 78,
+      "Planned": 38,
+      "Time": "2016-12-29T13:23:45.224942449+02:00"
     }
   ],
   "sprint_status": {
-    "Version": 0,
+    "Version": 63,
     "name": "12.1-M11",
     "days": [
       {
         "name": "Planning",
-        "total": 60,
+        "total": 168,
         "bottom": 0,
-        "top": 60,
-        "expected": 60,
+        "top": 168,
+        "expected": 168,
         "working_day": false
       },
       {
         "name": "Sun, Dec 25",
-        "total": 60,
+        "total": 168,
         "bottom": 0,
-        "top": null,
-        "expected": 48,
+        "top": 148,
+        "expected": 134.4,
         "working_day": true
       },
       {
         "name": "Mon, Dec 26",
-        "total": 60,
-        "bottom": 0,
-        "top": null,
-        "expected": 36,
+        "total": 173,
+        "bottom": 5,
+        "top": 152,
+        "expected": 105.8,
         "working_day": true
       },
       {
         "name": "Tue, Dec 27",
-        "total": 60,
-        "bottom": 0,
-        "top": null,
-        "expected": 24,
+        "total": 173,
+        "bottom": 5,
+        "top": 129,
+        "expected": 72.19999999999999,
         "working_day": true
       },
       {
         "name": "Wed, Dec 28",
-        "total": 60,
-        "bottom": 0,
-        "top": null,
-        "expected": 12,
+        "total": 173,
+        "bottom": 5,
+        "top": 129,
+        "expected": 38.599999999999994,
         "working_day": true
       },
       {
         "name": "Thu, Dec 29",
-        "total": 60,
-        "bottom": 0,
-        "top": null,
-        "expected": 0,
+        "total": 183,
+        "bottom": 15,
+        "top": 116,
+        "expected": 15,
         "working_day": true
       }
     ],
-    "today": -1
+    "today": 4
   },
-  "version": 1,
+  "version": 64,
   "Sprint": {
     "id": 95,
     "name": "12.1-M11",
