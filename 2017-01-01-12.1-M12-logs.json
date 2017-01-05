@@ -1,0 +1,676 @@
+{
+  "trello_events": [
+    {
+      "Done": 0,
+      "InProgress": 78,
+      "Planned": 38,
+      "Time": "2016-12-29T14:25:34.708641406+02:00"
+    },
+    {
+      "Done": 20,
+      "InProgress": 78,
+      "Planned": 38,
+      "Time": "2016-12-29T14:32:01.526415515+02:00"
+    },
+    {
+      "Done": 20,
+      "InProgress": 63,
+      "Planned": 38,
+      "Time": "2016-12-29T14:32:12.886962721+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 63,
+      "Planned": 38,
+      "Time": "2016-12-29T14:32:36.188039229+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 49,
+      "Planned": 38,
+      "Time": "2016-12-29T14:33:56.884501294+02:00"
+    },
+    {
+      "Done": 13,
+      "InProgress": 36,
+      "Planned": 38,
+      "Time": "2016-12-29T14:34:42.534113193+02:00"
+    },
+    {
+      "Done": 13,
+      "InProgress": 41,
+      "Planned": 38,
+      "Time": "2016-12-29T14:34:53.924175271+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 38,
+      "Time": "2016-12-29T14:35:05.848766826+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 43,
+      "Time": "2016-12-29T14:41:36.993717137+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 53,
+      "Time": "2016-12-29T14:41:48.377622359+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 56,
+      "Time": "2016-12-29T14:50:39.276193111+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 46,
+      "Time": "2016-12-29T14:55:37.758530126+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 56,
+      "Time": "2016-12-29T14:56:58.190419667+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 76,
+      "Time": "2016-12-29T14:57:44.597770402+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 96,
+      "Time": "2016-12-29T15:01:45.148300016+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 41,
+      "Planned": 116,
+      "Time": "2016-12-29T15:07:31.96454287+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 60,
+      "Planned": 116,
+      "Time": "2016-12-29T15:13:06.817557813+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 63,
+      "Planned": 113,
+      "Time": "2016-12-29T15:35:53.610764795+02:00"
+    },
+    {
+      "Done": 3,
+      "InProgress": 60,
+      "Planned": 113,
+      "Time": "2016-12-29T16:09:42.285026136+02:00"
+    },
+    {
+      "Done": 3,
+      "InProgress": 55,
+      "Planned": 118,
+      "Time": "2016-12-29T16:15:19.281924316+02:00"
+    },
+    {
+      "Done": 3,
+      "InProgress": 60,
+      "Planned": 113,
+      "Time": "2016-12-29T16:16:28.348520715+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 113,
+      "Time": "2016-12-29T17:03:54.306749386+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-29T17:09:53.156632253+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-30T00:00:11.42732794+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 0,
+      "Time": "2016-12-30T10:12:45.724015594+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-30T10:12:57.193999505+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 0,
+      "Planned": 98,
+      "Time": "2016-12-30T13:07:57.722429323+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-30T13:08:09.21748047+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 0,
+      "Planned": 98,
+      "Time": "2016-12-30T13:45:41.499174573+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-30T13:45:52.906019627+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-30T16:18:57.873760282+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-30T16:19:09.204546564+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-30T19:56:44.00692547+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-30T19:56:55.545337639+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-31T00:00:05.265922366+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 0,
+      "Planned": 98,
+      "Time": "2016-12-31T16:23:35.066094639+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2016-12-31T16:23:46.39249509+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 55,
+      "Planned": 98,
+      "Time": "2017-01-01T00:00:08.067801525+02:00"
+    },
+    {
+      "Done": 8,
+      "InProgress": 75,
+      "Planned": 78,
+      "Time": "2017-01-01T10:04:40.751709403+02:00"
+    },
+    {
+      "Done": 13,
+      "InProgress": 75,
+      "Planned": 73,
+      "Time": "2017-01-01T11:20:00.175793908+02:00"
+    },
+    {
+      "Done": 13,
+      "InProgress": 85,
+      "Planned": 73,
+      "Time": "2017-01-01T14:20:55.711930287+02:00"
+    },
+    {
+      "Done": 18,
+      "InProgress": 80,
+      "Planned": 73,
+      "Time": "2017-01-01T17:46:53.418452663+02:00"
+    },
+    {
+      "Done": 18,
+      "InProgress": 80,
+      "Planned": 73,
+      "Time": "2017-01-02T00:00:10.042946397+02:00"
+    },
+    {
+      "Done": 18,
+      "InProgress": 100,
+      "Planned": 53,
+      "Time": "2017-01-02T09:00:03.932043927+02:00"
+    },
+    {
+      "Done": 18,
+      "InProgress": 110,
+      "Planned": 43,
+      "Time": "2017-01-02T09:22:42.038635148+02:00"
+    },
+    {
+      "Done": 23,
+      "InProgress": 105,
+      "Planned": 43,
+      "Time": "2017-01-02T10:29:34.088951178+02:00"
+    },
+    {
+      "Done": 23,
+      "InProgress": 113,
+      "Planned": 35,
+      "Time": "2017-01-02T11:06:30.568152997+02:00"
+    },
+    {
+      "Done": 43,
+      "InProgress": 93,
+      "Planned": 35,
+      "Time": "2017-01-02T11:34:59.485071841+02:00"
+    },
+    {
+      "Done": 48,
+      "InProgress": 88,
+      "Planned": 35,
+      "Time": "2017-01-02T14:19:40.130538398+02:00"
+    },
+    {
+      "Done": 48,
+      "InProgress": 93,
+      "Planned": 30,
+      "Time": "2017-01-02T14:20:38.157924611+02:00"
+    },
+    {
+      "Done": 53,
+      "InProgress": 93,
+      "Planned": 30,
+      "Time": "2017-01-02T14:38:58.290818599+02:00"
+    },
+    {
+      "Done": 53,
+      "InProgress": 0,
+      "Planned": 30,
+      "Time": "2017-01-02T14:52:47.765866685+02:00"
+    },
+    {
+      "Done": 53,
+      "InProgress": 93,
+      "Planned": 30,
+      "Time": "2017-01-02T14:52:59.205080835+02:00"
+    },
+    {
+      "Done": 58,
+      "InProgress": 88,
+      "Planned": 30,
+      "Time": "2017-01-02T17:20:27.722342788+02:00"
+    },
+    {
+      "Done": 58,
+      "InProgress": 98,
+      "Planned": 30,
+      "Time": "2017-01-02T17:21:26.637597555+02:00"
+    },
+    {
+      "Done": 58,
+      "InProgress": 78,
+      "Planned": 50,
+      "Time": "2017-01-02T18:56:20.743453266+02:00"
+    },
+    {
+      "Done": 58,
+      "InProgress": 78,
+      "Planned": 30,
+      "Time": "2017-01-02T18:56:43.238394561+02:00"
+    },
+    {
+      "Done": 58,
+      "InProgress": 78,
+      "Planned": 30,
+      "Time": "2017-01-03T00:00:10.1802079+02:00"
+    },
+    {
+      "Done": 58,
+      "InProgress": 88,
+      "Planned": 20,
+      "Time": "2017-01-03T13:33:49.833849246+02:00"
+    },
+    {
+      "Done": 58,
+      "InProgress": 93,
+      "Planned": 20,
+      "Time": "2017-01-03T16:24:15.644689288+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 20,
+      "Time": "2017-01-03T16:24:27.123571171+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 20,
+      "Time": "2017-01-04T00:00:06.093207704+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 88,
+      "Planned": 20,
+      "Time": "2017-01-04T04:52:07.281922147+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 20,
+      "Time": "2017-01-04T04:52:18.49064337+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 0,
+      "Time": "2017-01-04T05:04:18.968336369+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 20,
+      "Time": "2017-01-04T05:04:30.298566012+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 0,
+      "Planned": 0,
+      "Time": "2017-01-04T08:16:11.925174305+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 20,
+      "Time": "2017-01-04T08:16:23.30705509+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 0,
+      "Planned": 20,
+      "Time": "2017-01-04T09:27:06.731361952+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 20,
+      "Time": "2017-01-04T09:27:18.474028461+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 25,
+      "Time": "2017-01-04T11:26:23.179613383+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 0,
+      "Planned": 25,
+      "Time": "2017-01-04T11:59:23.465870971+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 25,
+      "Time": "2017-01-04T11:59:34.636857626+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 0,
+      "Planned": 25,
+      "Time": "2017-01-04T12:28:29.698822732+02:00"
+    },
+    {
+      "Done": 63,
+      "InProgress": 88,
+      "Planned": 25,
+      "Time": "2017-01-04T12:28:40.986088519+02:00"
+    },
+    {
+      "Done": 73,
+      "InProgress": 78,
+      "Planned": 25,
+      "Time": "2017-01-04T13:51:58.798646956+02:00"
+    },
+    {
+      "Done": 73,
+      "InProgress": 78,
+      "Planned": 0,
+      "Time": "2017-01-04T15:23:17.16712102+02:00"
+    },
+    {
+      "Done": 73,
+      "InProgress": 78,
+      "Planned": 25,
+      "Time": "2017-01-04T15:23:28.676205527+02:00"
+    },
+    {
+      "Done": 73,
+      "InProgress": 93,
+      "Planned": 25,
+      "Time": "2017-01-04T15:30:27.602435613+02:00"
+    },
+    {
+      "Done": 73,
+      "InProgress": 93,
+      "Planned": 35,
+      "Time": "2017-01-04T15:36:53.691597152+02:00"
+    },
+    {
+      "Done": 73,
+      "InProgress": 93,
+      "Planned": 30,
+      "Time": "2017-01-04T16:30:09.067418428+02:00"
+    },
+    {
+      "Done": 73,
+      "InProgress": 93,
+      "Planned": 35,
+      "Time": "2017-01-04T16:30:20.950264971+02:00"
+    },
+    {
+      "Done": 78,
+      "InProgress": 93,
+      "Planned": 30,
+      "Time": "2017-01-04T16:30:33.566586361+02:00"
+    },
+    {
+      "Done": 88,
+      "InProgress": 83,
+      "Planned": 30,
+      "Time": "2017-01-04T16:35:43.33795516+02:00"
+    },
+    {
+      "Done": 88,
+      "InProgress": 83,
+      "Planned": 33,
+      "Time": "2017-01-04T16:40:16.018915578+02:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 83,
+      "Planned": 30,
+      "Time": "2017-01-04T16:40:27.178474219+02:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 103,
+      "Planned": 10,
+      "Time": "2017-01-04T16:46:08.720213036+02:00"
+    },
+    {
+      "Done": 0,
+      "InProgress": 0,
+      "Planned": 10,
+      "Time": "2017-01-04T22:58:40.946539458+02:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 103,
+      "Planned": 10,
+      "Time": "2017-01-04T22:59:12.629002923+02:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 103,
+      "Planned": 0,
+      "Time": "2017-01-04T23:20:42.711816111+02:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 103,
+      "Planned": 10,
+      "Time": "2017-01-04T23:20:54.958683142+02:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 103,
+      "Planned": 10,
+      "Time": "2017-01-05T00:00:02.084726948+02:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 103,
+      "Planned": 0,
+      "Time": "2017-01-05T00:12:40.172778673+02:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 103,
+      "Planned": 10,
+      "Time": "2017-01-05T00:12:51.404831122+02:00"
+    },
+    {
+      "Done": 101,
+      "InProgress": 93,
+      "Planned": 10,
+      "Time": "2017-01-05T10:53:19.997245621+02:00"
+    },
+    {
+      "Done": 96,
+      "InProgress": 93,
+      "Planned": 10,
+      "Time": "2017-01-05T10:53:32.695535998+02:00"
+    },
+    {
+      "Done": 116,
+      "InProgress": 73,
+      "Planned": 10,
+      "Time": "2017-01-05T11:38:45.97096112+02:00"
+    },
+    {
+      "Done": 136,
+      "InProgress": 53,
+      "Planned": 10,
+      "Time": "2017-01-05T11:50:32.813312153+02:00"
+    },
+    {
+      "Done": 136,
+      "InProgress": 53,
+      "Planned": 0,
+      "Time": "2017-01-05T13:54:02.650614451+02:00"
+    },
+    {
+      "Done": 136,
+      "InProgress": 53,
+      "Planned": 10,
+      "Time": "2017-01-05T13:54:14.034262201+02:00"
+    },
+    {
+      "Done": 136,
+      "InProgress": 58,
+      "Planned": 10,
+      "Time": "2017-01-05T13:58:23.695300266+02:00"
+    }
+  ],
+  "sprint_status": {
+    "Version": 111,
+    "name": "12.1-M12",
+    "days": [
+      {
+        "name": "Planning",
+        "total": 161,
+        "bottom": 0,
+        "top": 161,
+        "expected": 161,
+        "working_day": false
+      },
+      {
+        "name": "Sun, Jan 1",
+        "total": 171,
+        "bottom": 0,
+        "top": 153,
+        "expected": 138.8,
+        "working_day": true
+      },
+      {
+        "name": "Mon, Jan 2",
+        "total": 166,
+        "bottom": -5,
+        "top": 108,
+        "expected": 101.6,
+        "working_day": true
+      },
+      {
+        "name": "Tue, Jan 3",
+        "total": 171,
+        "bottom": 0,
+        "top": 108,
+        "expected": 74.39999999999999,
+        "working_day": true
+      },
+      {
+        "name": "Wed, Jan 4",
+        "total": 204,
+        "bottom": 33,
+        "top": 113,
+        "expected": 75.19999999999999,
+        "working_day": true
+      },
+      {
+        "name": "Thu, Jan 5",
+        "total": 204,
+        "bottom": 33,
+        "top": 68,
+        "expected": 43,
+        "working_day": true
+      }
+    ],
+    "today": 4
+  },
+  "version": 112,
+  "Sprint": {
+    "id": 96,
+    "name": "12.1-M12",
+    "completeDate": null,
+    "endDate": "2017-01-05T02:00:00+02:00",
+    "startDate": "2017-01-01T02:00:00+02:00",
+    "originBoardId": 1,
+    "self": "https://xap-issues.atlassian.net/rest/agile/1.0/sprint/96",
+    "state": "active"
+  }
+}
