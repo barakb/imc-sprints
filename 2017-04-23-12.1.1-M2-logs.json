@@ -1,0 +1,76 @@
+{
+  "trello_events": [
+    {
+      "Done": 48,
+      "InProgress": 96,
+      "Planned": 25,
+      "Time": "2017-04-24T15:41:06.522811734+03:00"
+    }
+  ],
+  "sprint_status": {
+    "Version": 2,
+    "name": "12.1.1-M2",
+    "days": [
+      {
+        "name": "Planning",
+        "total": 169,
+        "bottom": 0,
+        "top": 169,
+        "expected": 169,
+        "working_day": false
+      },
+      {
+        "name": "Sun, Apr 23",
+        "total": 169,
+        "bottom": 0,
+        "top": null,
+        "expected": 135.2,
+        "working_day": true
+      },
+      {
+        "name": "Mon, Apr 24",
+        "total": 169,
+        "bottom": 0,
+        "top": 121,
+        "expected": 101.4,
+        "working_day": true
+      },
+      {
+        "name": "Tue, Apr 25",
+        "total": 169,
+        "bottom": 0,
+        "top": null,
+        "expected": 67.60000000000001,
+        "working_day": true
+      },
+      {
+        "name": "Wed, Apr 26",
+        "total": 169,
+        "bottom": 0,
+        "top": null,
+        "expected": 33.80000000000001,
+        "working_day": true
+      },
+      {
+        "name": "Thu, Apr 27",
+        "total": 169,
+        "bottom": 0,
+        "top": null,
+        "expected": 0,
+        "working_day": true
+      }
+    ],
+    "today": 1
+  },
+  "version": 3,
+  "Sprint": {
+    "id": 111,
+    "name": "12.1.1-M2",
+    "completeDate": null,
+    "endDate": "2017-04-27T03:00:00+03:00",
+    "startDate": "2017-04-23T03:00:00+03:00",
+    "originBoardId": 1,
+    "self": "https://xap-issues.atlassian.net/rest/agile/1.0/sprint/111",
+    "state": "active"
+  }
+}
