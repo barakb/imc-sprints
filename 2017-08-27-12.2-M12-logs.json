@@ -1,0 +1,184 @@
+{
+  "trello_events": [
+    {
+      "Done": 0,
+      "InProgress": 81,
+      "Planned": 57,
+      "Time": "2017-08-30T13:39:39.118449084+03:00"
+    },
+    {
+      "Done": 81,
+      "InProgress": 57,
+      "Planned": 0,
+      "Time": "2017-08-30T13:40:01.859517877+03:00"
+    },
+    {
+      "Done": 96,
+      "InProgress": 42,
+      "Planned": 0,
+      "Time": "2017-08-30T15:27:23.051351809+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 42,
+      "Planned": 0,
+      "Time": "2017-08-30T15:27:35.11657984+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 47,
+      "Planned": 0,
+      "Time": "2017-08-30T15:28:20.987729712+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 47,
+      "Planned": 5,
+      "Time": "2017-08-30T15:29:30.38471058+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 47,
+      "Planned": 8,
+      "Time": "2017-08-30T15:31:16.527816999+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 47,
+      "Planned": 13,
+      "Time": "2017-08-30T15:33:47.408969684+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 47,
+      "Planned": 23,
+      "Time": "2017-08-30T15:34:21.951336066+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 47,
+      "Planned": 0,
+      "Time": "2017-08-30T15:39:54.54654234+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 50,
+      "Planned": 0,
+      "Time": "2017-08-30T17:12:40.956471071+03:00"
+    },
+    {
+      "Done": 91,
+      "InProgress": 47,
+      "Planned": 0,
+      "Time": "2017-08-30T17:18:50.335079938+03:00"
+    },
+    {
+      "Done": 98,
+      "InProgress": 40,
+      "Planned": 0,
+      "Time": "2017-08-30T17:19:13.263563961+03:00"
+    },
+    {
+      "Done": 98,
+      "InProgress": 40,
+      "Planned": 0,
+      "Time": "2017-08-31T00:00:00.679303511+03:00"
+    },
+    {
+      "Done": 98,
+      "InProgress": 0,
+      "Planned": 0,
+      "Time": "2017-08-31T01:04:55.768861254+03:00"
+    },
+    {
+      "Done": 98,
+      "InProgress": 40,
+      "Planned": 0,
+      "Time": "2017-08-31T01:05:07.129215504+03:00"
+    },
+    {
+      "Done": 103,
+      "InProgress": 35,
+      "Planned": 0,
+      "Time": "2017-08-31T11:06:54.203569572+03:00"
+    },
+    {
+      "Done": 108,
+      "InProgress": 30,
+      "Planned": 0,
+      "Time": "2017-08-31T14:34:37.388955788+03:00"
+    },
+    {
+      "Done": 123,
+      "InProgress": 15,
+      "Planned": 0,
+      "Time": "2017-08-31T14:35:33.85954679+03:00"
+    }
+  ],
+  "sprint_status": {
+    "Version": 18,
+    "name": "12.2-M12",
+    "days": [
+      {
+        "name": "Planning",
+        "total": 138,
+        "bottom": 0,
+        "top": 138,
+        "expected": 138,
+        "working_day": false
+      },
+      {
+        "name": "Sun, Aug 27",
+        "total": 138,
+        "bottom": 0,
+        "top": null,
+        "expected": 110.4,
+        "working_day": true
+      },
+      {
+        "name": "Mon, Aug 28",
+        "total": 138,
+        "bottom": 0,
+        "top": null,
+        "expected": 82.8,
+        "working_day": true
+      },
+      {
+        "name": "Tue, Aug 29",
+        "total": 138,
+        "bottom": 0,
+        "top": null,
+        "expected": 55.19999999999999,
+        "working_day": true
+      },
+      {
+        "name": "Wed, Aug 30",
+        "total": 138,
+        "bottom": 0,
+        "top": 40,
+        "expected": 27.599999999999994,
+        "working_day": true
+      },
+      {
+        "name": "Thu, Aug 31",
+        "total": 138,
+        "bottom": 0,
+        "top": 15,
+        "expected": 0,
+        "working_day": true
+      }
+    ],
+    "today": 4
+  },
+  "version": 19,
+  "Sprint": {
+    "id": 131,
+    "name": "12.2-M12",
+    "completeDate": null,
+    "endDate": "2017-08-31T03:00:00+03:00",
+    "startDate": "2017-08-27T03:00:00+03:00",
+    "originBoardId": 1,
+    "self": "https://xap-issues.atlassian.net/rest/agile/1.0/sprint/131",
+    "state": "active"
+  }
+}
